@@ -1,6 +1,6 @@
 ---
 name: behave
-description: Working agreements for how to collaborate with the maintainer on process, review and communication. Apply at the start of every session and before any implementation, commit, or report back.
+description: Working agreements for how to collaborate with the maintainer on process, review and communication.
 disable-model-invocation: true
 ---
 

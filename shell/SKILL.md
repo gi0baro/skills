@@ -1,6 +1,6 @@
 ---
 name: shell
-description: Shell conventions for this machine (zsh by default). Apply whenever running any shell command, especially ones with globs, wildcards or quoted patterns.
+description: Shell conventions for this machine (zsh by default). Apply whenever running bash commands
 ---
 
 # Shell

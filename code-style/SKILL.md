@@ -1,6 +1,6 @@
 ---
 name: code-style
-description: Language-agnostic code style rules for writing, changing and reviewing code (comments, tests, readability).
+description: Language-agnostic code style rules for writing, changing and reviewing code.
 ---
 
 # Code style

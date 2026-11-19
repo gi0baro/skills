@@ -1,6 +1,6 @@
 ---
 name: proper-edits
-description: How to modify files. Always use the harness's edit tool, never bash-invoked scripts. Invoke explicitly with /skill:proper-edits.
+description: How to modify files. Always prefer the harness's edit and write tools over bash-invoked scripts.
 disable-model-invocation: true
 ---
 
